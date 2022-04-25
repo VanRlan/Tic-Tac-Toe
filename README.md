@@ -1,3 +1,6 @@
+#tic-tac-toe
+Created along with our instructor Dyl from R2H
+
 # tic-tak-toe-hooks
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
